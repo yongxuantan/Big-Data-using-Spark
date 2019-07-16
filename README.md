@@ -1,6 +1,6 @@
 # Big-Data-using-Spark
 
-### A repository to describe algorithms and implementations learning during the Big Data Management course.
+### A repository to describe algorithms and Scala implementations learned during the Big Data Management course.
 
 ```
 Page Rank: 
