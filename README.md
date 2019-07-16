@@ -9,5 +9,6 @@ Page Rank:
     1. origin
     2. destination
   - Number of iterations
-  - Output file path
+  - Output file path: destinations listed in decresing order based on page rank value
+  Algorithm: [Page Rank with Damping Factory](https://en.wikipedia.org/wiki/PageRank)
 ```
