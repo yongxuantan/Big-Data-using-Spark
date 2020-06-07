@@ -1,4 +1,4 @@
-import org.apache.spark.{SparkConf, SparkContext} 
+import org.apache.spark.{SparkConf, SparkContext}
 
 object PageRank {
   def main(args: Array[String]): Unit = {
