@@ -43,7 +43,7 @@ Input Parameters:
 
 ##### -------------------- GraphX.scala Program details --------------------
 Analyze social network using GraphX.<br/>
-Data: [SNAP repository](https://snap.stanford.edu/data/index.html%23socnets)
+Data: [SNAP repository](https://snap.stanford.edu/data/#socnets)
 ```
 Input Parameters:
   1. Input file path
